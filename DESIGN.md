@@ -1,0 +1,5 @@
+# Sentinel design system
+
+User-pinned SOC interface: charcoal backgrounds, restrained green, subtle borders. Operate mode; code-first implementation. The brief takes precedence over the concept seed (seed:a7ee2e8502a8515a); no alternate visual world is introduced.
+Navigation: persistent left rail, top context bar, roomy workspace with compact tabular evidence. White text is primary; muted sage gray is secondary. Green indicates an action or completed check; amber warns; red indicates failure or stop. Status always includes text.
+Typography: system sans for task UI, monospace for URLs, timestamps and identifiers. Squared 8px cards, hairline separators, no decorative glow. Tablets retain a compact icon rail. Phones use the full screen width with labeled, six-item bottom navigation, 44px touch controls and stacked scan records. Mobile inputs use 16px text; dialogs fit the dynamic viewport and respect safe areas. Dialogs use native dialog focus containment and viewport-centered blurred backdrop.

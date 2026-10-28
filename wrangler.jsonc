@@ -1,0 +1,13 @@
+{
+  "name": "sentinel-control",
+  "compatibility_date": "2026-10-28",
+  "pages_build_output_dir": "dist",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "sentinel",
+      "database_id": "00000000-0000-0000-0000-000000000000",
+      "migrations_dir": "migrations",
+    },
+  ],
+}
