@@ -6,7 +6,7 @@
     {
       "binding": "DB",
       "database_name": "sentinel",
-      "database_id": "00000000-0000-0000-0000-000000000000",
+      "database_id": "4bc770fb-d0f9-4388-a688-35084cdffa2a",
       "migrations_dir": "migrations",
     },
   ],
